@@ -8,12 +8,20 @@
 <a href="https://img.shields.io/badge/PDF-Appendix-da282a.svg"><img src="https://img.shields.io/badge/PDF-Appendix-d1cebc.svg"></a>
 </p>
 
-><p align="center"> <span style="color:#137cf3; font-family: Gill Sans">Huijie Liu</span><sup>1,2</sup>,</a>  <span style="color:#137cf3; font-family: Gill Sans">Bingcan Wang</span><sup>1</sup>,</a> <span style="color:#137cf3; font-family: Gill Sans">Jie Hu</span><sup>1</sup>,</a>  <span style="color:#137cf3; font-family: Gill Sans">Xiaoming Wei</span><sup>1</sup>, </a>  <span style="color:#137cf3; font-family: Gill Sans">Guoliang Kang</span><sup>2</sup></a> </a> <br> 
-><span style="font-size: 16px">Meituan</span><sup>1</sup>, Beihang University</span><sup>2</sup></span></p>
-
 <p align="center">
-<img src="assets/fig1.png" width=95% height=95% 
-class="center">
+    <span style="color:#137cf3; font-family: Gill Sans">Huijie Liu</span><sup>1,2</sup>,
+    <span style="color:#137cf3; font-family: Gill Sans">Shuhao Cui</span><sup>1</sup>,
+    <span style="color:#137cf3; font-family: Gill Sans">Haoxiang Cao</span><sup>1,3</sup>,
+    <span style="color:#137cf3; font-family: Gill Sans">Shuai Ma</span><sup>1</sup>,
+    <span style="color:#137cf3; font-family: Gill Sans">Bing Yu</span><sup>1</sup>,
+    <span style="color:#137cf3; font-family: Gill Sans">Kai Wu</span><sup>1,†</sup>,
+    <span style="color:#137cf3; font-family: Gill Sans">Guoliang Kang</span><sup>2,†</sup>
+    <br>
+    <sup>1</sup><span style="font-size: 16px">Meituan</span>, 
+    <sup>2</sup><span style="font-size: 16px">Beihang University</span>,
+    <sup>3</sup><span style="font-size: 16px">South China Normal University</span>
+    <br>
+    <sup>†</sup><span style="font-size: 16px">Co-Corresponding Author</span>
 </p>
 
 ## 🔥 News
