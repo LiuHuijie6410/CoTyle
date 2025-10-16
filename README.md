@@ -39,5 +39,6 @@ Innovative visual stylization is a cornerstone of artistic creation, while gener
 
 ## ⚡️ Quick Start
 We have first launched a [demo](https://huggingface.co/spaces/Kwai-Kolors/CoTyle) on HuggingFace Space—-feel free to try it out! 
-The code will be released by mid-November.
+
+<span style="color:red;">The code will be released by Nov 13 '25</span>
 
